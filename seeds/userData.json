@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Homer Simpson",
+      "email": "whichbutton@gmail.com",
+      "password": "thered1"
+    },
+    {
+      "name": "Ben Jerry",
+      "email": "iloveicecream@yahoo.com",
+      "password": "rockyroad2"
+    },
+    {
+      "name": "Chip Dale",
+      "email": "chipmunks@aol.com",
+      "password": "troubleX2"
+    },
+    {
+      "name": "Oscar Grouch",
+      "email": "trashcanmonster@aol.com",
+      "password": "bananaPeel"
+    },
+    {
+        "name": "Elizabeth Darcy",
+        "email": "prejudice@gmail.com",
+        "password": "JaneAus8"
+      }
+  ]

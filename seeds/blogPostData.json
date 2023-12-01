@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Christmas Lights should be up ALL winter!",
+      "description": "Winter in the midwest is long and gray.  Christmas lights would lift the spirit for many people",
+      "date_created": "January 2, 2024",
+      "user_id": 1
+    },
+    {
+      "title": "Charles Dicken's 'A Christmas Carole' is an all time classic",
+      "description": "I believe that 'A Christmas Carole' is Charles Dicken's best work.  It has adventure, love, hope, and excitement!",
+      "date_created": "December 2, 2023",
+      "user_id": 2
+    },
+    {
+      "title": "Stop scrolling the internet.....it's a waste of time",
+      "description": "Spending more time on the internet scrolling is not only a waste of time, but affects your health.  Sleep studies show people who scroll more, sleep less deeply than those who spend less time on the internet.",
+      "date_created": "March 9, 2024",
+      "user_id": 3
+    },
+    {
+        "title": "Dogs are much better than cats!",
+        "description": "Dogs are truely man's best friend!  Not only do dogs listen to instructions better, but they travel, go for walks, and are intune to empathetic feelings.",
+        "date_created": "March 12,2024",
+        "user_id": 4
+      },
+      {
+        "title": "Aliens are real!",
+        "description": "I saw an alien!  I was stargazing last night and I saw a large, bright blob.  I focused my telescope even more and the object had moved!  I am convinced it was a spaceship!",
+        "date_created": "April 1,2024",
+        "user_id": 5
+      }
+  ]

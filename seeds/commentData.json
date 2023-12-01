@@ -1,0 +1,62 @@
+[
+    {
+        "comment_body": "I agree whole-heartedly!",
+        "date_created": "January 11, 2024",
+        "user_id": 2,
+        "blogPost_id": 1
+    },
+    {
+        "comment_body": "I am finished with Christmas on December 26th!",
+        "date_created": "January 13, 2024",
+        "user_id": 3,
+        "blogPost_id": 1
+    },
+    {
+        "comment_body": "'Oliver Twist' was better than 'A Christmas Carole' by miles!",
+        "date_created": "December 18, 2023",
+        "user_id": 4,
+        "blogPost_id": 2
+    },
+    {
+        "comment_body": "Who is Charles Dickens?",
+        "date_created": "January 1, 2024",
+        "user_id": 1,
+        "blogPost_id": 2
+    },
+    {
+        "comment_body": "I found this post by scrolling.",
+        "date_created": "April 8, 2024",
+        "user_id": 5,
+        "blogPost_id": 3
+    },
+    {
+        "comment_body": "I actually sleep better after playing 10 games of Candy Crush before bed.",
+        "date_created": "May 14, 2024",
+        "user_id": 4,
+        "blogPost_id": 3
+    },
+    {
+        "comment_body": "Cats are more underrated.  They can do more than people give them credit for!",
+        "date_created": "April 13, 2024",
+        "user_id": 3,
+        "blogPost_id": 4
+    },
+    {
+        "comment_body": "I wish dogs could live longer.  I am so blessed to live with my best friend.",
+        "date_created": "May 20, 2024",
+        "user_id": 5,
+        "blogPost_id": 4
+    },
+    {
+        "comment_body": "I saw an alien once. I think she said she was from England.  LOL!",
+        "date_created": "April 1, 2024",
+        "user_id": 1,
+        "blogPost_id": 5
+    },
+    {
+        "comment_body": "You are beyond crazy!",
+        "date_created": "June 14, 2024",
+        "user_id": 2,
+        "blogPost_id": 5
+    }
+]
